@@ -1,0 +1,152 @@
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+  font-size: 15px;
+  background-color: #f2f2f2;
+}
+
+.grid {
+  padding: 50px 0;
+  width: 100%;
+}
+
+.grid .content.bg {
+  background-color: #e38826;
+  border-radius: 4px;
+}
+
+.grid .content .text-start {
+  padding: 50px;
+}
+
+.grid .content .h1 {
+  color: #f2f2f2;
+  font-family: "Big Shoulders Display", cursive;
+  font-weight: 700;
+  padding-left: 50px;
+}
+
+.grid .content .para {
+  color: rgba(255, 255, 255, 0.75);
+  font-family: "Lexend Deca", sans-serif;
+  font-weight: 400;
+  padding-left: 50px;
+  margin-top: 20px;
+  width: 280px;
+}
+
+.grid .content .btn-primary {
+  border-color: #f2f2f2;
+  background-color: transparent;
+  margin-left: 50px;
+  margin-top: 70px;
+  border-radius: 40px;
+  width: 150px;
+  height: 45px;
+  font-family: "Lexend Deca", sans-serif;
+  font-weight: 400;
+  margin-bottom: 120px;
+}
+
+.grid .content .btn-primary:hover {
+  background-color: #f2f2f2;
+  color: #e38826;
+}
+
+.grid {
+  padding: 50px 0;
+}
+
+.grid .content.bg-dark-cyan {
+  background-color: #006970;
+  border-radius: 4px;
+}
+
+.grid .content .text-start {
+  padding: 50px;
+}
+
+.grid .content .h1 {
+  color: #f2f2f2;
+  font-family: "Big Shoulders Display", cursive;
+  font-weight: 700;
+  padding-left: 50px;
+}
+
+.grid .content .para {
+  color: rgba(255, 255, 255, 0.75);
+  font-family: "Lexend Deca", sans-serif;
+  font-weight: 400;
+  padding-left: 50px;
+  margin-top: 20px;
+  width: 280px;
+}
+
+.grid .content .btn-primary {
+  border-color: #f2f2f2;
+  background-color: transparent;
+  margin-left: 50px;
+  margin-top: 70px;
+  border-radius: 40px;
+  width: 150px;
+  height: 45px;
+  font-family: "Lexend Deca", sans-serif;
+  font-weight: 400;
+  margin-bottom: 120px;
+}
+
+.grid .content .btn-primary:hover {
+  background-color: #f2f2f2;
+  color: #006970;
+}
+
+.grid {
+  padding: 50px 0;
+}
+
+.grid .content.bg-very-dark-cyan {
+  background-color: #004241;
+  border-radius: 4px;
+}
+
+.grid .content .text-start {
+  padding: 50px;
+}
+
+.grid .content .h1 {
+  color: #f2f2f2;
+  font-family: "Big Shoulders Display", cursive;
+  font-weight: 700;
+  padding-left: 50px;
+}
+
+.grid .content .para {
+  color: rgba(255, 255, 255, 0.75);
+  font-family: "Lexend Deca", sans-serif;
+  font-weight: 400;
+  padding-left: 50px;
+  margin-top: 20px;
+  width: 280px;
+}
+
+.grid .content .btn-primary {
+  border-color: #f2f2f2;
+  background-color: transparent;
+  margin-left: 50px;
+  margin-top: 70px;
+  border-radius: 40px;
+  width: 150px;
+  height: 45px;
+  font-family: "Lexend Deca", sans-serif;
+  font-weight: 400;
+  margin-bottom: 120px;
+}
+
+.grid .content .btn-primary:hover {
+  background-color: #f2f2f2;
+  color: #004241;
+}
+/*# sourceMappingURL=index.css.map */
