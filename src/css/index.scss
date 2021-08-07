@@ -15,7 +15,7 @@ body {
     .content{
         &.bg{
             background-color: $Bright-orange;
-            border-radius: 4px;
+            border-radius: 4px 0 0 4px;;
         }
         .text-start {
             padding:50px
@@ -58,7 +58,7 @@ body {
     .content{
         &.bg-dark-cyan{
             background-color: $Dark-cyan;
-            border-radius: 4px;
+            border-radius: 0px;
             // padding-left: 0px;
         }
         .text-start {
@@ -102,7 +102,7 @@ body {
     .content{
         &.bg-very-dark-cyan{
             background-color: $Very-dark-cyan;
-            border-radius: 4px;
+            border-radius:  0 4px 4px 0;
         }
         .text-start {
             padding:50px

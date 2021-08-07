@@ -15,7 +15,7 @@ body {
 
 .grid .content.bg {
   background-color: #e38826;
-  border-radius: 4px;
+  border-radius: 4px 0 0 4px;
 }
 
 .grid .content .text-start {
@@ -62,7 +62,7 @@ body {
 
 .grid .content.bg-dark-cyan {
   background-color: #006970;
-  border-radius: 4px;
+  border-radius: 0px;
 }
 
 .grid .content .text-start {
@@ -109,7 +109,7 @@ body {
 
 .grid .content.bg-very-dark-cyan {
   background-color: #004241;
-  border-radius: 4px;
+  border-radius: 0 4px 4px 0;
 }
 
 .grid .content .text-start {
